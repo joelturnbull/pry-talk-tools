@@ -1,0 +1,1 @@
+silent execute "!bash tools/git_step.bash &>/dev/null &" | redraw! | redraw!
